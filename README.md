@@ -26,7 +26,6 @@ Components:
 
 * xcaller
 * xstalker
-* xchain-listener
 * bitcoin-payer
 * counterparty-sender
 * counterparty-transaction-parser
