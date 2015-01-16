@@ -5,36 +5,37 @@ An outline of all available tools, components and services in the Tokenly ecosys
 
 ###Tokenly CMS
 
-Community publishing platform
-forum
-rewards system
+Community publishing platform  
+Forums  
+Rewards systems  
+Advertising  
 
 ###XChain
 
-Address and Token Balances
-Incoming/Outgoing Payment Notifications
+Address and Token Balances  
+Incoming/Outgoing Payment Notifications  
 Platform Wallet Services
 
 ###Counterparty Gateway
 
-BTC in -> TOKEN out
-TOKEN in -> BTC out
+BTC in -> TOKEN out  
+TOKEN in -> BTC out  
 Valuations on BTC/USD quotes
 
 ###BitSplit
 
-Token in -> Tokens Out to Many Recipients
+Token in -> Tokens Out to Many Recipients  
 BTC in -> BTC Out to Many Recipients
 
 ###Auction Machine
 
-BTC bidding -> TOKEN out
+BTC bidding -> TOKEN out  
 TOKEN bidding -> TOKEN out
 
 ###Tokenly Accounts
 
-Platform-Wide Preferences (email, name, etc)
-Verified Counterparty Addresses
+Platform-Wide Preferences (email, name, etc)  
+Verified Counterparty Addresses  
 oAuth
 
 ###Examples and Tutorials
