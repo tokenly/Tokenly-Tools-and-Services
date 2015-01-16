@@ -17,6 +17,9 @@ An outline of all available tools, components and services in the Tokenly ecosys
 
 ###Tokenly Accounts
 
+#Examples and Tutorials
+
+* Toy Vending Machine demonstrating how to use XChain
 
 #Tools & Components
 
