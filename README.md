@@ -1,5 +1,4 @@
-# Tokenly
-##Tools & Services
+# Tokenly - Tools & Services
 
 An outline of all available tools, components and services in the Tokenly ecosystem
 
@@ -20,8 +19,7 @@ An outline of all available tools, components and services in the Tokenly ecosys
 
 **Status:** In production (and active development)
 
-**Repositories**
-
+**Repositories**  
 [Tokenly CMS](https://github.com/tokenly/tokenly-cms)
 
 ###XChain
@@ -32,8 +30,7 @@ Platform Wallet Services
 
 **Status:** In production (and active development)
 
-**Repositories**
-
+**Repositories**  
 [XChain](https://github.com/tokenly/xchain)  
 [XChain-Client](https://github.com/tokenly/xchain-client)  
 [xcaller](https://github.com/tokenly/xcaller) - calls webhooks from a queue and returns results  
@@ -49,10 +46,9 @@ Platform Wallet Services
 * Support for running multiple swapbot-machines
 * Separate front-end "swapbot directory" system for public listings of available swapbot/vendng machines.
 
-**Repositories**
-
 **Status:** In development
 
+**Repositories**  
 [SwapBot-Machine](https://github.com/tokenly/swapbot)  
 SwapBot-Directory (coming soon!)  
 [Functional prototype script](https://github.com/tokenly/xcp-gateway)
@@ -66,8 +62,7 @@ SwapBot-Directory (coming soon!)
 
 **Status:** In development
 
-**Repositories**
-
+**Repositories**  
 [BitSplit](https://github.com/tokenly/BitSplit)
 
 ###Auction Machine
@@ -75,20 +70,20 @@ SwapBot-Directory (coming soon!)
 BTC bidding -> TOKEN out  
 TOKEN bidding -> TOKEN out
 
-**Repositories**
+**Status:** In production
 
+**Repositories**  
 [Auction Machine](https://github.com/tokenly/auction-machine)
 
 ###Tokenly Accounts
 
-Platform-Wide Preferences (email, name, etc)  
-Verified Counterparty Addresses  
-oAuth
+* Platform-Wide Preferences (email, name, etc)  
+* Verified Counterparty Addresses  
+* oAuth
 
 **Status:** In development
 
-**Repositories**
-
+**Repositories**  
 [Accounts](https://github.com/tokenly/accounts)
 
 ###Examples and Tutorials
