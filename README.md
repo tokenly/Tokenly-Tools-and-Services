@@ -1,4 +1,6 @@
-# Tokenly-Tools-and-Services
+# Tokenly
+##Tools & Services
+
 An outline of all available tools, components and services in the Tokenly ecosystem
 
 #Software & Services
