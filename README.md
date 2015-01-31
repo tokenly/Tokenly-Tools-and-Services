@@ -24,9 +24,9 @@ An outline of all available tools, components and services in the Tokenly ecosys
 
 ###XChain
 
-Address and Token Balances  
-Incoming/Outgoing Payment Notifications  
-Platform Wallet Services
+* Address and Token Balances  
+* Incoming/Outgoing Payment Notifications  
+* Platform Wallet Services
 
 **Status:** In production (and active development)
 
@@ -67,8 +67,8 @@ SwapBot-Directory (coming soon!)
 
 ###Auction Machine
 
-BTC bidding -> TOKEN out  
-TOKEN bidding -> TOKEN out
+* BTC bidding -> TOKEN out  
+* TOKEN bidding -> TOKEN out
 
 **Status:** In production
 
