@@ -17,7 +17,7 @@ An outline of all available tools, components and services in the Tokenly ecosys
 * Easily extendable web API
 * Integration with other Tokenly systems
 
-**Status:** In production (and active development)
+**Status:** In beta production (and active development)
 
 **Repositories**  
 [Tokenly CMS](https://github.com/tokenly/tokenly-cms)
@@ -89,6 +89,8 @@ SwapBot-Directory (coming soon!)
 ###Examples and Tutorials
 
 * [Toy Vending Machine](https://github.com/tokenly/toy-vending-machine) demonstrating how to use XChain
+
+Actual documentation coming soon..
 
 #Tools & Components
 
