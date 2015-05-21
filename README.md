@@ -53,6 +53,17 @@ An outline of all available tools, components and services in the Tokenly ecosys
 SwapBot-Directory (coming soon!)  
 [Functional prototype script](https://github.com/tokenly/xcp-gateway)
 
+###Token Slot
+
+* Token redemption and payment processing service
+* Provides API for accepting BTC and Counterparty tokens
+* All payments are forwarded daily to an address under your control 
+
+**Status:** In development
+
+**Repositories**  
+[token-slot](https://github.com/tokenly/token-slot)
+
 ###BitSplit
 
 * Token distribution and payment splitting system
